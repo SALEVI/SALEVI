@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MaxPax](https://github.com/SALEVI/MaxPax.git)
 
-- 🌱 I’m currently interested in **Go, HTMX, Svelte**
+- 🌱 I’m currently interested in **Go, HTMX, SvelteKit**
 
 - 📫 How to reach me **aleventesalcudean@gmail.com**
 
